@@ -5,7 +5,7 @@
 ## Modified： 2020-12-03
 ## Version： v2.3.8
 
-RootDir=$(cd $(dirname $0); pwd)
+RootDir=$(cd $(dirname $0); password)
 ShellDir="${RootDir}/shell"
 LogDir="${RootDir}/log"
 ScriptsDir="${RootDir}/scripts"
